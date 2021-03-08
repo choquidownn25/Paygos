@@ -1,1 +1,1 @@
-# Paygos
+# Pagos
